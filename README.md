@@ -1,3 +1,4 @@
+![logo](https://github.com/kvaibhav1623/kvaibhav1623/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">A MERN stack developer from India</h3>
 
