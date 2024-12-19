@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kvaibhav1623&label=Profile%20views&color=0e75b6&style=flat" alt="kvaibhav1623" /> </p>
 
-- 📫 How to reach me **vaibhav.kumar@myyahoo.com**
+- 📫 How to reach me **vaibhavkodes@gmail.com**
 
 - ⚡ Fun fact **I can sing really well**
 
